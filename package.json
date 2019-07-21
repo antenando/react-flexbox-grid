@@ -23,7 +23,7 @@
     "react-component"
   ],
   "dependencies": {
-    "flexboxgrid2": "github:antenando/flexboxgrid2",
+    "flexboxgrid2": "git://github.com/antenando/flexboxgrid2.git",
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
