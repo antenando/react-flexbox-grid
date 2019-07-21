@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:antenando/react-flexbox-grid.git"
+    "url": "git://github.com/antenando/react-flexbox-grid.git"
   },
   "bugs": {
     "url": "https://github.com/antenando/react-flexbox-grid/issues"
