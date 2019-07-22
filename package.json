@@ -2,7 +2,7 @@
   "name": "@antenando/react-flexbox-grid",
   "description": "A set of React components implementing flexboxgrid with the power of CSS Modules",
   "homepage": "https://github.com/roylee0704/react-flexbox-grid",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "main": "lib/index.js",
   "author": {
     "email": "roylee0704@gmail.com",
@@ -23,8 +23,7 @@
     "react-component"
   ],
   "dependencies": {
-    "@antenando/flexboxgrid2": "^7.2.1",
-    "flexboxgrid2": "git://github.com/antenando/flexboxgrid2.git",
+    "@antenando/flexboxgrid2": "7.2.2",
     "prop-types": "^15.5.8"
   },
   "devDependencies": {
