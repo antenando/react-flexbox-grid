@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@antenando/flexboxgrid2@^7.2.1":
-  version "7.2.1"
-  resolved "https://registry.yarnpkg.com/@antenando/flexboxgrid2/-/flexboxgrid2-7.2.1.tgz#73b9944094868915d334a5c9853c0052c9d3db09"
-  integrity sha512-W3p98n2fYZT6e+AlRxTD9R2ZUU8XDOCZI/IPefy4jYtJA8lX673a4Ri+/jkDsjMYgOvgMxD/lDNsVEOGkwCCjQ==
+"@antenando/flexboxgrid2@7.2.2":
+  version "7.2.2"
+  resolved "https://registry.yarnpkg.com/@antenando/flexboxgrid2/-/flexboxgrid2-7.2.2.tgz#e129b62a4c7cc3f70884bcb49985db83814a60fb"
+  integrity sha512-F/OJ53F0VnSk1Dm8VSd6409ECov7DhaEw1XK4VbIQinQSfIWHzEUF0iIOQ5rfBQRBecmUnV23KL7hNOWXTzziQ==
   dependencies:
     normalize.css "^7.0.0"
 
@@ -2763,12 +2763,6 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
   integrity sha1-2uRqnXj74lKSJYzB54CkHZXAN4I=
-
-"flexboxgrid2@git://github.com/antenando/flexboxgrid2.git":
-  version "7.2.1"
-  resolved "git://github.com/antenando/flexboxgrid2.git#a79cacfc2c7188a4cf2c342d729b46e19b43344e"
-  dependencies:
-    normalize.css "^7.0.0"
 
 follow-redirects@^1.0.0:
   version "1.7.0"
