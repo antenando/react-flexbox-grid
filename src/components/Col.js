@@ -5,7 +5,6 @@ import getClass from '../classNames';
 import { ColumnSizeType, ViewportSizeType } from '../types';
 
 const propTypes = {
-  xxs: ColumnSizeType,
   xs: ColumnSizeType,
   sm: ColumnSizeType,
   md: ColumnSizeType,
@@ -24,7 +23,6 @@ const propTypes = {
 };
 
 const classMap = {
-  xxs: 'col-xxs',
   xs: 'col-xs',
   sm: 'col-sm',
   md: 'col-md',

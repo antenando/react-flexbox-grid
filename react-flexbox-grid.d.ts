@@ -6,7 +6,7 @@
 import {Component, HTMLAttributes} from 'react';
 
 declare namespace __ReactFlexboxGrid {
-  type ViewportSizeType = 'xxs' | 'xs' | 'sm' | 'md' | 'lg' | 'xl';
+  type ViewportSizeType = 'xs' | 'sm' | 'md' | 'lg' | 'xl';
   type ColumnSizeType = number | boolean;
 
   export interface GridProps extends HTMLAttributes<HTMLDivElement> {
@@ -30,7 +30,6 @@ declare namespace __ReactFlexboxGrid {
   }
 
   export interface ColProps extends HTMLAttributes<HTMLDivElement> {
-    readonly xxs?: ColumnSizeType,
     readonly xs?: ColumnSizeType,
     readonly sm?: ColumnSizeType,
     readonly md?: ColumnSizeType,
